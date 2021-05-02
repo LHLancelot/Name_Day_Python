@@ -1,2 +1,2 @@
 # Name_Day_Python
-Find Finnish Name days
+A simple script with a dictionary listing all the names, and their day
